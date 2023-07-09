@@ -4,7 +4,8 @@ rule1:
 (C)/No error (D)
 
 Ans: 
-```verb only depends on the subject, it does not 
+```
+verb only depends on the subject, it does not 
 get changed with the fraction like ( Half of the )
 ```
 > students -> have  
