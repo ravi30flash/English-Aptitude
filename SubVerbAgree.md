@@ -152,9 +152,9 @@ committee is a collection noun, it will be used with singular verb.
 **Q18** : India along with Russia are planning to develop a new variant of S-400.  
 Ans: 
 ```
-
+subjects connected by along with takes, singular verb
 ```
->  food safety `have` asked -> food safety `has` asked
+>  India along with Russia `are` -> India along with Russia `is`
 
 
 
