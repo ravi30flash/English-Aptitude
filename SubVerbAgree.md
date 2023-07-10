@@ -1,6 +1,6 @@
 
 
-**Q1** : Half of the subjects (A)/has failed (B)/in English.
+**Q1** : Half of the students (A)/has failed (B)/in English.
 (C)/No error (D)
 
 Ans: 
