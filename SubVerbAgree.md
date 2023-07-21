@@ -1,6 +1,6 @@
-rule1: 
 
-**Q1** : Half of the subjects (A)/has failed (B)/in English.
+
+**Q1** : Half of the students (A)/has failed (B)/in English.
 (C)/No error (D)
 
 Ans: 
@@ -101,6 +101,66 @@ Ans:
 Rule: eveyrbody/each/every these words always uses singular verb
 ```
 >  everybody `know` -> everybody `knows`
+
+**Q12** : one of the reasons for taking these steps however, were the stagnations in the production sector of the country.
+
+Ans: 
+```
+Rule: one of the + Noun(plural) + Verb(Singular)
+```
+>  `were` -> `is`
+
+**Q13** : Either liv or her juniors is to be called is case of issues relating to human resources
+Ans: 
+```
+Rule: when multiple subjects are connected with either-or then verb will agree to it's nearest subject.
+```
+>  either liv or her juniors is -> either liv or her juniors `are`
+
+
+**Q14** : every boy and girl  have right to be treated equally,without discrimination.  
+Ans: 
+```
+Rule: each/every/everybody gives a sense of the individuality hence we use singular verb
+```
+>  every boy and girl `have` -> every boy and girl `has`
+
+
+**Q15** : there are still a distressingly large number of deaths due to japanese encephalitis in newborn babies.  
+Ans: 
+```
+Rule: a large number of + verb(plural)
+```
+>  no error
+
+
+**Q16** : The rise and fall of water are due to friction caused by higher and lower concentrations.  
+Ans: 
+```
+here rise and fall resembles the same thing, therefore verb used will be singular, plural verb wont be used here.
+```
+>  rise and fall of water `are` -> rise and fall of water `is`
+
+**Q17** : The committeee,which looks after food safety have asked FSSAI to take action as soon as possible.  
+Ans: 
+```
+committee is a collection noun, it will be used with singular verb.
+```
+>  food safety `have` asked -> food safety `has` asked
+
+
+**Q18** : India along with Russia are planning to develop a new variant of S-400.  
+Ans: 
+```
+subjects connected by along with takes, singular verb
+```
+>  India along with Russia `are` -> India along with Russia `is`
+
+
+
+
+
+
 
 
 
